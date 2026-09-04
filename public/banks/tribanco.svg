@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 80" width="160" height="80">
+  <rect width="160" height="80" rx="12" fill="#F8FAFC"/>
+  <g transform="translate(18, 22)">
+    <!-- 't' teal cross/top arm -->
+    <path d="M 0 16 L 8 16 L 8 10 L 0 10 Z" fill="#00C48C"/>
+    <!-- 't' dark navy trunk -->
+    <path d="M 8 4 L 14 4 L 14 10 L 20 10 L 20 16 L 14 16 L 14 26 C 14 28 15 29 17 29 L 20 29 L 20 34 L 16 34 C 10.5 34 8 31.5 8 26 L 8 16 L 0 16 L 0 21 L 0 16 Z" fill="#0C346B"/>
+    <!-- 'ribanco' text in dark navy -->
+    <text x="24" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="800" fill="#0C346B" letter-spacing="-1">ribanco</text>
+  </g>
+</svg>

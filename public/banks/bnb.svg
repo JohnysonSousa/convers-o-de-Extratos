@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 110" width="260" height="110">
+  <rect width="260" height="110" rx="10" fill="#FFFFFF"/>
+  <g transform="translate(14, 12)">
+    <!-- Orange Frame with rounded corners and opening at bottom-left -->
+    <path d="M 38 74 L 62 74 A 12 12 0 0 0 74 62 L 74 18 A 12 12 0 0 0 62 6 L 18 6 A 12 12 0 0 0 6 18 L 6 42" 
+          fill="none" 
+          stroke="#F58220" 
+          stroke-width="7" 
+          stroke-linecap="round" 
+          stroke-linejoin="round" />
+    
+    <!-- Stylized Palm / Symbol in deep wine red (#9D1535) -->
+    <!-- Top-left petal -->
+    <path d="M 38 38 C 38 38 32 20 18 16 C 16 26 24 38 38 38 Z" fill="#9D1535"/>
+    <!-- Top-right petal -->
+    <path d="M 38 38 C 38 38 46 22 60 20 C 58 30 48 38 38 38 Z" fill="#9D1535"/>
+    <!-- Bottom-right petal -->
+    <path d="M 38 38 C 38 38 56 38 64 50 C 54 54 44 48 38 38 Z" fill="#9D1535"/>
+    <!-- Trunk sweeping out and bottom-left -->
+    <path d="M 38 38 C 30 42 22 52 16 66 C 12 74 6 82 -2 86 C 2 74 8 62 16 50 C 24 40 32 38 38 38 Z" fill="#9D1535"/>
+    <!-- Center connecting accent -->
+    <path d="M 33 34 C 36 31 40 31 43 34 C 43 38 39 42 35 40 Z" fill="#9D1535"/>
+    
+    <!-- Wordmark "Banco do Nordeste" -->
+    <g fill="#9D1535">
+      <text x="88" y="38" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="900" letter-spacing="-0.5">Banco do</text>
+      <text x="88" y="70" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="29" font-weight="900" letter-spacing="-0.5">Nordeste</text>
+    </g>
+  </g>
+</svg>

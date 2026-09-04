@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 90" width="160" height="90">
+  <!-- Yellow Background -->
+  <rect width="160" height="90" rx="10" fill="#FCED1B"/>
+  <g fill="#003882">
+    <!-- Banco do Brasil Interlocking BB Symbol -->
+    <g transform="translate(56, 10)">
+      <path d="M 24 0 L 12 12 L 20 20 L 32 8 L 36 12 L 24 24 L 28 28 L 44 12 Z" fill="#003882"/>
+      <path d="M 24 48 L 36 36 L 28 28 L 16 40 L 12 36 L 24 24 L 20 20 L 4 36 Z" fill="#003882"/>
+      <path d="M 24 24 L 32 16 L 24 8 L 16 16 Z" fill="#003882"/>
+      <path d="M 24 24 L 16 32 L 24 40 L 32 32 Z" fill="#003882"/>
+    </g>
+    <!-- Wordmark BANCO DO BRASIL -->
+    <text x="80" y="78" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="900" text-anchor="middle" letter-spacing="0.5">BANCO DO BRASIL</text>
+  </g>
+</svg>

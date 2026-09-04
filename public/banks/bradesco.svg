@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 140" width="160" height="140">
+  <rect width="160" height="140" rx="14" fill="#FFFFFF"/>
+  <g fill="#CC092F">
+    <!-- Bradesco Tree / Arch Symbol -->
+    <g transform="translate(42, 12)">
+      <!-- Left trunk -->
+      <rect x="26" y="38" width="8.5" height="28" rx="2"/>
+      <!-- Right trunk -->
+      <rect x="42" y="38" width="8.5" height="28" rx="2"/>
+      <!-- Outer upper canopy curve -->
+      <path d="M 0 32 C 4 12 24 0 54 0 C 68 0 74 6 76 10 C 78 14 74 19 68 18 C 50 14 26 22 18 36 C 14 42 6 42 2 38 C 0 36 0 34 0 32 Z"/>
+      <!-- Lower inner canopy curve -->
+      <path d="M 12 36 C 18 24 34 16 52 18 C 60 19 62 25 58 28 C 42 26 28 32 24 42 C 20 46 14 44 12 40 C 11 38 11 37 12 36 Z"/>
+    </g>
+    <!-- bradesco typography -->
+    <text x="80" y="112" font-family="system-ui, -apple-system, sans-serif" font-size="21" font-weight="800" text-anchor="middle" letter-spacing="-0.5">bradesco</text>
+  </g>
+</svg>

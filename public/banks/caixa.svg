@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Caixa Blue Rounded Background -->
+  <rect width="100" height="100" rx="22" fill="#005CA9"/>
+  <!-- Caixa X Emblem -->
+  <g transform="translate(18, 18)">
+    <!-- Top-Left White Wing -->
+    <polygon points="4,4 28,4 42,29 18,29" fill="#FFFFFF"/>
+    <!-- Bottom-Right White Wing -->
+    <polygon points="36,35 60,35 46,60 22,60" fill="#FFFFFF"/>
+    <!-- Top-Right Orange Wing -->
+    <polygon points="60,4 36,4 22,29 46,29" fill="#F37021"/>
+    <!-- Bottom-Left Orange Wing -->
+    <polygon points="18,35 42,35 28,60 4,60" fill="#F37021"/>
+  </g>
+</svg>

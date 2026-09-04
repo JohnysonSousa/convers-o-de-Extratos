@@ -1,0 +1,6 @@
+{
+  "name": "Extrato Inteligente",
+  "description": "Conversor inteligente de extratos bancários em PDF para planilhas Excel e CSV com consolidação e regras customizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
